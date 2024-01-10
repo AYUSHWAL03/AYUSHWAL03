@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushwal03" alt="ayushwal03" /></a> </p>
 
-- 🔭 I’m currently working on [hostel-management-website](https://github.com/utkrao/backend-hostel-management)
+- 🔭 I’m currently working on [teachable-machines](https://github.com/AYUSHWAL03/teachable-machine)
 
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, BERT model**
 
-- 🤝 I’m looking for help with [static website generator](https://github.com/AYUSHWAL03/static-web-generator)
+- 🤝 I’m looking for help with [static website generator](https://github.com/AYUSHWAL03/static-web-generator) and [teachable machnine](https://github.com/AYUSHWAL03/teachable-machine).
 
-- 💬 Ask me about **Nodejs, Reactjs, MongoDB**
+- 💬 Ask me about **Nodejs, Reactjs, MongoDB,python**
 
 - 📫 How to reach me **ayush.s.walekar03@gmail.com**
 
